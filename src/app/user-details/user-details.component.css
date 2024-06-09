@@ -1,0 +1,25 @@
+.container {
+    margin-top: 50px;
+}
+
+.card {
+    width: 100%;
+}
+
+.card-header {
+    background-color: #212529;
+    /* Warna header card */
+}
+
+.card-body {
+    padding: 20px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 10px;
+}

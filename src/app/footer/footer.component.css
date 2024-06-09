@@ -1,0 +1,15 @@
+.footer {
+    background-color: black;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    /* Menggunakan width: 100% agar footer memenuhi lebar layar */
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
